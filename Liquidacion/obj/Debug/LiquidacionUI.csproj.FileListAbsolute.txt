@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\obj\Debug\LiquidacionUI.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\Liquidacion.exe.config
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\Liquidacion.exe
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\Liquidacion.pdb
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\Entity.dll
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\Entity.pdb
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\obj\Debug\LiquidacionUI.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\obj\Debug\Liquidacion.exe
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\obj\Debug\Liquidacion.pdb
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\Liquidacion\Liquidacion\bin\Debug\DAL.pdb

@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\LiquidacionGUI.exe.config
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\LiquidacionGUI.exe
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\LiquidacionGUI.pdb
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\Entity.dll
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\Entity.pdb
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.Principal.resources
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.exe
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.pdb
+C:\Users\Usuario\source\repos\Liquidacion\LiquidacionGUI\obj\Debug\LiquidacionGUI.ConsultoLiquidacionFrm.resources
